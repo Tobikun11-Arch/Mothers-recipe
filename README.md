@@ -1,50 +1,25 @@
-# Welcome to your Expo app 👋
+#Recipe Hub 🍳
+Recipe Hub is a cross-platform recipe app built with React Native and Expo, designed to make cooking fun, easy, and organized. Whether you're a seasoned chef or a beginner in the kitchen, this app helps you discover, save, and share your favorite recipes.
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Features
+📖 Browse Recipes: Explore a wide range of recipes from different cuisines.
+⭐ Save Favorites: Keep a personal list of recipes you love.
+🥗 Categorized Recipes: Filter recipes by categories like Vegan, Quick Meals, Desserts, and more.
+🔍 Search Functionality: Find recipes by name or ingredients.
+📋 Ingredient Tracker: Mark ingredients as you use them for seamless cooking.
+🌍 Cross-Platform Support: Works on both iOS and Android devices with a responsive and user-friendly interface.
 
-## Get started
+Tech Stack
+React Native: Cross-platform app development.
+Expo: For streamlined development and deployment.
+TypeScript: For type-safe coding and better maintainability.
 
-1. Install dependencies
+##Getting Started
+Clone the repository, install dependencies, and start exploring recipes right away!
+git clone https://github.com/your-username/recipe-hub.git  
+cd recipe-hub  
+npm install  
+expo start  
 
-   ```bash
-   npm install
-   ```
-
-2. Start the app
-
-   ```bash
-    npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Contributions
+Feel free to contribute by adding features, fixing bugs, or improving the UI. Open a PR or raise an issue for discussions.
